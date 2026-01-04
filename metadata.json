@@ -1,0 +1,5 @@
+{
+  "name": "Arduino KeyMapper AI",
+  "description": "Generador de código Arduino asistido por IA para mapear teclas y botones. Especializado en Arduino Uno y Leonardo.",
+  "requestFramePermissions": []
+}
